@@ -1,0 +1,34 @@
+{
+   "adminer_tooltip": {
+      "description": "",
+      "message": "Go to admin panel"
+   },
+   "extension_description": {
+      "description": "Quick jump to the admin panel",
+      "message": "Quick jump to the admin panel from any page websites."
+   },
+   "new_tab_label": {
+      "description": "",
+      "message": "Quick jump to the admin panel in new tab : "
+   },
+   "bookmark_label": {
+      "description": "",
+      "message": "Folder name in bookmarks with links to admin panel: "
+   },
+   "options_defaults_button": {
+      "description": "Text on restore defaults buttion on options page.",
+      "message": "Restore Default Values"
+   },
+   "options_header": {
+      "description": "",
+      "message": "Options"
+   },
+   "options_save_button": {
+      "description": "Text on save changes buttion on options page.",
+      "message": "Save Changes"
+   },
+   "options_title": {
+      "description": "",
+      "message": "Admin Panel Login Options"
+   }
+}
